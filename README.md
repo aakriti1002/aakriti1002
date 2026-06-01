@@ -32,17 +32,6 @@ const aakriti = {
 ```
 
 > 💬 *"I'm not just learning to code — I'm building impactful software applications that solves real world problems."*
-
----
-
-## 🔭 What I'm Currently Working On
-
-| Project | Description | Status |
-|:--------|:------------|:------:|
-| 🎯 **Faculty Duty Management System** | University exam duty allocation & workflow platform | 🟡 Ongoing |
-| 🌸 **GSSoC 2026 Contributions** | Open source PRs, feature enhancements, bug fixes | 🟢 Active |
-| 📚 **DSA Practice** | Strengthening problem-solving with Data Structures | 🟢 Daily |
-
 ---
 
 ## 🛠️ Tech Stack
@@ -90,15 +79,12 @@ const aakriti = {
 
 ## 📌 Featured Projects
 
-<div align="center">
-
-[![Faculty Duty](https://github-readme-stats.vercel.app/api/pin/?username=aakritahirwar22&repo=faculty-duty-management&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=7c3aed)](https://github.com/aakritahirwar22/faculty-duty-management)
-[![SmartSathi](https://github-readme-stats.vercel.app/api/pin/?username=aakritahirwar22&repo=smartsathi&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=7c3aed)](https://github.com/aakritahirwar22/smartsathi)
-[![Secure Password Vault](https://github-readme-stats.vercel.app/api/pin/?username=aakritahirwar22&repo=secure-password-vault&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=7c3aed)](https://github.com/aakritahirwar22/secure-password-vault)
-[![Club Management](https://github-readme-stats.vercel.app/api/pin/?username=aakritahirwar22&repo=club-management-system&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=7c3aed)](https://github.com/aakritahirwar22/club-management-system)
-
-</div>
-
+| Project | Description |
+|----------|------------|
+| [Faculty Duty Management System](https://github.com/aakriti1002/faculty-duty-management-system) | Faculty duty allocation, cancellation workflow, approval system and reports |
+| [SmartSathi](https://github.com/aakriti1002/smartsathi) | Student academic companion and learning assistant |
+| [Secure Password Vault](https://github.com/aakriti1002/secure-password-vault) | Password management and encryption application |
+| [Club Management System](https://github.com/aakriti1002/club-management-system) | Club events, membership and activity management platform |
 ---
 
 ## 🏆 Achievements
@@ -158,7 +144,6 @@ const aakriti = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aakritahirwar22)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aakritahirwar2209@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aakritahirwar22)
-[![Phone](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919340398497)
 
 <br/>
 
@@ -166,10 +151,8 @@ const aakriti = {
 <i>Feel free to reach out, I'd love to connect!</i><br/>
 <i>⭐ Drop a star if something here helped you!</i>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:24243e,70:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" width="100%" />
+<div align='center'>*Made with ❤️ by Aakriti Ahirwar — MITS Gwalior, 2026*</div>
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:24243e,70:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" width="100%"/>
-
-*Made with ❤️ by Aakriti Ahirwar — MITS Gwalior, 2026*
 
 </div>

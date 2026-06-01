@@ -117,12 +117,13 @@ const aakriti = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=aakritahirwar22&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9"/>
-  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakritahirwar22&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9"/>
+  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=aakriti1002&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9"/>
+  
+  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakriti1002&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9"/>
 </div>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=aakritahirwar22&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff"/>
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=aakriti1002&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff"/>
 </div>
 
 ---

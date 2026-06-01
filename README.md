@@ -135,19 +135,11 @@ const aakriti = {
 
 ---
 
-## 🐍 Contribution Snake
+## My Contribution :
 
 <div align="center">
 
-<!-- Snake is auto-generated every 12 hrs via GitHub Actions (.github/workflows/snake.yml) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/aakritahirwar22/aakritahirwar22/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/aakritahirwar22/aakritahirwar22/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/aakritahirwar22/aakritahirwar22/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
+<img src="https://github.com/aakriti1002/aakriti1002/blob/output/github-contribution-grid-snake-dark.svg?raw=true" alt="Snake animation" />
 
 </div>
 

@@ -168,7 +168,6 @@ const aakriti = {
 ---
 
 ## 🌐 Let's Connect
-
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aakritahirwar22)
@@ -178,13 +177,11 @@ const aakriti = {
 
 <br/>
 
-```
-╔═══════════════════════════════════════════════════════════════╗
-║  Building software that solves real educational problems.     ║
-║  Open to internships, collaborations & learning together.     ║
-║  Drop a ⭐ if something here helped you!                      ║
-╚═══════════════════════════════════════════════════════════════╝
-```
+<i>💡 Open to internships, collaborations & exciting opportunities — let's build something great together!</i><br/>
+<i>Feel free to reach out, I'd love to connect!</i><br/>
+<i>⭐ Drop a star if something here helped you!</i>
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:24243e,70:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" width="100%"/>
 

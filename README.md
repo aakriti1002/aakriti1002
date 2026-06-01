@@ -127,14 +127,6 @@ const aakriti = {
 
 ---
 
-## 📈 Contribution Activity Graph
-
-<div align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=aakritahirwar22&theme=tokyo-night&bg_color=0d1117&color=00d9ff&line=7c3aed&point=00d9ff&area=true&area_color=7c3aed&hide_border=true" alt="Aakriti's contribution graph"/>
-</div>
-
----
-
 ## My Contribution :
 
 <div align="center">
